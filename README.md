@@ -2,6 +2,10 @@
 
 This repository contains the code for the SIGGRAPH 2026 paper [Dual Contouring of Signed Distance Data](https://gatc.cs.columbia.edu/projects/dual-contouring-of-signed-distance-data.html), by Xiana Carrera, Ningna Wang, Christopher Batty, Oded Stein, and Silvia Sellán.
 
+
+> [!CAUTION]
+> **Important**: This repository contains the code used to produce the results in our SIGGRAPH 2026 paper. It is kept only so those results can be reproduced, and it will not be updated, so bug fixes and improvements won't appear here. If you want to use Dual Contouring of Signed Distance Data in your own work, please DO NOT USE THIS CODE, and instead refer to the [dual_contouring_of_signed_distance_data](https://gpytoolbox.org/latest/dual_contouring_of_signed_distance_data/) function in [Gpytoolbox](https://gpytoolbox.org/latest/), which is the only maintained version.
+
 > [!CAUTION]
 > This code was tested on macOS only. If you encounter issues with other platforms, please contact [x.carrera@columbia.edu](mailto:x.carrera@columbia.edu).
 
